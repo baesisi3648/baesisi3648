@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **baesisi3648/baesisi3648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>
-    <a href="https://baesisi3648.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white"/></a>
+    <a href="https://baesisi3648.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=safari&logoColor=white"/></a>
     <a href="mailto:baesisi3648@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.notion.so/260576c82b6180b18e63e3f7c569a170"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   </p>
