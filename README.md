@@ -1,6 +1,6 @@
 ## 현장의 비효율을 AI 서비스로 만드는 엔지니어, 배성우입니다.
 
-현장의 문제를 AI로 풀어본 사람입니다. 프랜차이즈 매뉴얼부터 연구 자동화까지
+현장의 문제를 AI로 풀어본 사람입니다. 프랜차이즈 매뉴얼부터 연구 자동화까지.
 
 <div align="center">
   <a href="https://baesisi3648.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=safari&logoColor=white"/></a>
@@ -21,6 +21,8 @@
 | **MarryRoute** | AI 웨딩플래너 에이전트 — MVP 기반 프로덕트 빌딩 | LangChain, PostgreSQL, Streamlit |
 
 ---
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -57,6 +59,8 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+</div>
 
 ---
 
